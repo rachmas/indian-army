@@ -29,7 +29,7 @@
 <tr>
 
 <th>meta description</th>
-<td> The meta description length of your page is 0 characters. <td>
+<td> The meta description length of your page is 0 characters. </td>
 <td>Most search engines will truncate Meta descriptions to 160 characters.Your primary keywords should appear in your meta-tags to help identify the topic of your webpage to search engines</td>
 <td>not good</td><br>
 </tr>
