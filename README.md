@@ -39,7 +39,7 @@
 <th>keywords test</th>
 <td>There is likely no optimal keyword density</td>
 <td>search engine alogorithms have evolved beyond keyword density metrics as a significant ranking factor it can be useful however to note which keywords appear most often in the page and if they reflect the intended topic of your page more importantly the keywords in your page should appear within natural sounding and grammatically correct copy</td>
-<td>info</td><br>
+<td>ok</td><br>
 
 </tr>
 
@@ -49,7 +49,7 @@
 
 <td>Join Indian Army.</td>
 <td>http://joinindianarmy.nic.in/</td>
-<td>info</td><br>
+<td>ok</td><br>
 
 </tr>
 
