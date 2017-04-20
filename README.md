@@ -193,3 +193,25 @@
 
 </html>
 
+
+
+<p>
+<table>
+<tr>
+     <th> <u><b>Domain Age</b></u></th>
+    </tr>
+    <tr>
+      <td><b>Created on</b></td><td>:31-Jan-2012 23:46:35 UTC</td>
+    </tr>
+    <tr>
+      <td><b>Expiration Date</b></td><td>31-Jan-2018 23:46:35 UTC</td> </tr>
+    <tr>
+      <td><b>Last Updated</b></td><td>:11-Jan-2017 11:27:10 UTC</td>
+    </tr>
+</table>
+
+
+</body>
+
+</html>
+
